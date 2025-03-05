@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gh0stfriend
-- 👀 I’m a Data Scientist whose also interested in all things Python.
+- 👀 I’m a Data Scientist who's also interested in all things Python.
 - 🌱 I’m constantly learning and honing my Data Science skills.
 - 💞️ I’m open to collaborating on any project where my contributions can make an impact.
 - ⚡ Fun fact: I just opened my Github account so the fun is only starting ;-)
